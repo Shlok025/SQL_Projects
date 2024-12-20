@@ -1,0 +1,34 @@
+A) Marketing: The marketing team wants to launch some campaigns, and they need your help with the following
+
+1.Rewarding Most Loyal Users: People who have been using the platform for the longest time.
+Your Task: Find the 5 oldest users of the Instagram from the database provided
+
+2.Remind Inactive Users to Start Posting: By sending them promotional emails to post their 1st photo.
+Your Task: Find the users who have never posted a single photo on Instagram
+
+3.Declaring Contest Winner: The team started a contest and the user who gets the most likes on a single photo will win the contest now they wish to declare the winner.
+Your Task: Identify the winner of the contest and provide their details to the team
+
+4. Hashtag Researching: A partner brand wants to know, which hashtags to use in the post to reach the most people on the platform.
+Your Task: Identify and suggest the top 5 most commonly used hashtags on the platform
+
+5.Launch AD Campaign: The team wants to know, which day would be the best day to launch ADs.
+Your Task: What day of the week do most users register on? Provide insights on when to schedule an ad campaign
+
+
+
+Some more practise questions:-
+
+1. Most Active Users:  
+   - Find the top 5 users who have uploaded the most photos on the platform.  
+
+2. Popular Users by Followers:  
+   - Identify the users with the highest number of followers.  
+
+3. Daily Registration Trend:  
+   - Calculate the number of users who register daily to identify trends in platform activity.
+
+4. Engagement Analysis:  
+   - Find the photo with the highest engagement (sum of likes and comments).  
+
+  
